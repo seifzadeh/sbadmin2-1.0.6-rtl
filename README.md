@@ -2,6 +2,8 @@
 
 [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
+[online RTL](http://seifzadeh.github.io/sbadmin2-1.0.6-rtl) cersion demo.
+
 ## Getting Started
 
 To use this template, choose one of the following options to get started:
